@@ -6,3 +6,5 @@ script 0-current_working_directory prints the current directory you are working 
 5-listfilesdigitonly lists current directory contents in long format with user groups  IDs displaye numerically
 6-firstdirectory creates directory named m_first_directory in /tmp/ folder
 7-movethatfile moves a file named betty from /tmp/ to /tmp/my_first_directory
+8-firstdelete deletes the file betty from /tmp/my_first_directory
+9-firstdirdeletion deletes my_first_directory from /tmp/ directory
