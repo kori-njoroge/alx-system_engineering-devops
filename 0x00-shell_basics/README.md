@@ -13,3 +13,7 @@ script 0-current_working_directory prints the current directory you are working 
 12-file_type prints the type of the command written
 13-symbolic_link creates a symbolic link named __ls__
 14-copy_html copies all .html files
+100-lets_move move all letters beginning with capital letter to /tmp/u
+101-clean_emacs deletes all files in the working directory ending with ~
+102-tree creates a teree directory welcome/ welcome/to/ welcome/to/school
+103-commas
