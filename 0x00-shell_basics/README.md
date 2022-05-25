@@ -17,3 +17,4 @@ script 0-current_working_directory prints the current directory you are working 
 101-clean_emacs deletes all files in the working directory ending with ~
 102-tree creates a teree directory welcome/ welcome/to/ welcome/to/school
 103-commas lists files separated by commas
+school.mgc magic file
