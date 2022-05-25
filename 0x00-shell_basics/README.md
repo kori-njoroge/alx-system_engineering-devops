@@ -8,3 +8,4 @@ script 0-current_working_directory prints the current directory you are working 
 7-movethatfile moves a file named betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete deletes the file betty from /tmp/my_first_directory
 9-firstdirdeletion deletes my_first_directory from /tmp/ directory
+10-back moves user to the previous directory
