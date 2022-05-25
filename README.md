@@ -1,2 +1,2 @@
-#!/bin/bash
-This is my sprint 1 repository for alx software engineering program
+# alx-system_engineering-devops
+My alx repository  for sprint 1 projects
