@@ -12,3 +12,4 @@ script 0-current_working_directory prints the current directory you are working 
 11-lists lists files in long format in the order provided
 12-file_type prints the type of the command written
 13-symbolic_link creates a symbolic link named __ls__
+14-copy_html copies all .html files
