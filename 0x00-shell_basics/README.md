@@ -9,3 +9,6 @@ script 0-current_working_directory prints the current directory you are working 
 8-firstdelete deletes the file betty from /tmp/my_first_directory
 9-firstdirdeletion deletes my_first_directory from /tmp/ directory
 10-back moves user to the previous directory
+11-lists lists files in long format in the order provided
+12-file_type prints the type of the command written
+13-symbolic_link creates a symbolic link named __ls__
